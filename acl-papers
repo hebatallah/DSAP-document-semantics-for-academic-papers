@@ -1,0 +1,86 @@
+ID	Title
+A97-1049	An Intelligent Multilingual Information Browsing and Retrieval System Using Information Extraction
+C02-1127	Location Normalization for Information Extraction
+C10-1010	Self-Annotation for fine-grained geospatial relation extraction
+C10-1018	Exploiting Background Knowledge for Relation Extraction
+C10-1089	Entity-Focused Sentence Simplification for Relation Extraction
+C10-2058	Challenges from Information Extraction to Information Fusion
+C90-3071	Information Extraction and Semantic Constraints
+D09-1044	Multi-Document Summarisation Using Generic Relation Extraction
+D11-1132	Relation Extraction with Relation Topics
+H01-1036	Information Extraction with Term Frequencies
+H01-1054	Multidocument Summarization via Information Extraction
+H05-1091	A Shortest Path Dependency Kernel for Relation Extraction
+H90-1092	EXTENDING THE SCOPE OF TEXT UNDERSTANDING SYSTEMS EVALUATION
+H91-1093	EVALUATING TEXT UNDERSTANDING SYSTEMS
+H91-1094	Active Knowledge Structures in Natural Language Understanding
+H92-1112	1Diderot: TIPSTER Program, Automatic Data Extraction from Text Utilizing Semantic Analysis
+H93-1089	SHOGUN- MULTILINGUAL DATA EXTRACTION FOR TIPSTER
+H93-1097	INFORMATION EXTRACTION SYSTEM EVALUATION
+H93-1099	2Diderot: TIPSTER Program, Automatic Data Extraction from Text Utilizing Semantic Analysis
+H93-1111	UMass/Hughes TIPSTER Project on Extraction from Text
+H94-1105	WRITTEN LANGUAGE SYSTEM EVALUATION
+H94-1107	3Diderot: TIPSTER Program, Automatic Data Extraction from Text Utilizing Semantic Analysis
+I05-1033	Relation Extraction Using Support Vector Machine
+I05-2045	Unsupervised Feature Selection for Relation Extraction
+I08-1005	Semi-Supervised Learning for Relation Extraction
+I08-1046	An effective method of using Web based information for Relation Extraction
+I08-2119	A Re-examination of Dependency Path Kernels for Relation Extraction
+I08-2137	Introduction to Text Summarization and Other Information Access Technologies
+L08-1001	Unsupervised Relation Extraction from Web Documents
+L08-1175	Causal Relation Extraction
+L08-1308	Search Adaptation of Relation Extraction Rules to New Domains
+M93-1003	TEMPLATE DESIGN FOR INFORMATION EXTRACTION
+M93-1009	The Generic Information Extraction System
+M93-1029	INFORMATION EXTRACTION FOR THE FUTURE
+M93-1032	INFORMATION EXTRACTION AND EVALUATION
+M98-1006	Using Collocation Statistics in Information Extraction
+N03-4013	pre-CODIE – Crosslingual On-Demand Information Extraction
+N04-4028	Confidence Estimation for Information Extraction
+N06-1039	Preemptive Information Extraction using Unrestricted Relation Discovery
+N06-2007	Semi-supervised Relation Extraction with Label Propagation
+N06-5006	Automatic Semantic Role Labeling
+N07-1015	A Systematic Exploration of the Feature Space for Relation Extraction
+N07-1067	Question Answering Using Integrated Information
+N07-2025	Exploiting Rich Syntactic Information for Relationship Extraction from Biomedical Articles
+N07-2032	Subtree Mining for Relation Extraction from Wikipedia
+N07-4013	TextRunner: Open Information Extraction on the Web
+N09-3012	Syntactic Tree-based Relation Extraction Using a Generalization of Collins and Duffy Convolution Tree Kernel
+N09-4004	Extracting World and Linguistic Knowledge from Wikipedia
+P00-1062	Utilizing the World Wide Web as an Encyclopedia: Extracting Term Descriptions from Semi-Structured Texts
+P01-1039	Relation Extraction with Relation Topics
+P04-1054	Dependency Tree Kernels for Relation Extraction
+P05-1045	Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling
+P05-1053	Exploring Various Knowledge in Relation Extraction
+P06-1016	Modeling Commonality among Related Classes in Relation Extraction
+P06-2086	URES: an Unsupervised Web Relation Extraction System
+P06-2094	On-Demand Information Extraction
+P08-1004	The Tradeoffs Between Open and Traditional Relation Extraction
+P09-2092	Composite Kernels For Relation Extraction
+P10-1013	Open Information Extraction Using Wikipedia
+P11-2048	End-to-End Relation Extraction Using Distant Supervision from External Semantic Repositories
+P11-3012	An Error Analysis of Relation Extraction in Social Media Documents
+P12-1012	Temporally Anchored Relation Extraction
+S10-1043	UNITN: Part-Of-Speech Counting in Relation Extraction
+S10-1047	FBK-IRST: Semantic Relation Extraction Using Cyc
+W00-0505	Towards Translingual Information Access using Portable Information Extraction
+W00-1109	ACL-2000 Workshop on Recent Advances in Natural Language Processing and Information Retrieval
+W02-0312	Medstract: creating large-scale information servers from biomedical texts
+W03-1609	Paraphrase Acquisition for Information Extraction
+W04-0704	conference Resolution for Information Extraction
+W06-1656	Boosting Unsupervised Relation Extraction by Using NER
+W06-1702	BE: A search engine for NLP research
+W06-2208	Expanding the Recall of Relation Extraction by Bootstrapping
+W06-2918	Using Gazetteers in Discriminative Information Extraction
+W06-3322	Extracting Protein-Protein interactions using simple contextual features
+W09-1413	BioEve: Bio-Molecular Event Extraction from Text Using Semantic Classification and Dependency Parsing
+W09-3741	Concept and Relation Extraction in the Finance Domain
+W10-3905	Statistical Relational Learning for Knowledge Extraction from the Web
+W11-0224	Medstract - The Next Generation
+W12-0502	A Study of Hybrid Similarity Measures for Semantic Relation Extraction
+W97-0319	Probabilistic Coreference in Information Extraction
+X93-1001	TIPSTER PROGRAM OVERVIEW
+X96-1005	ARCHITECTURE OVERVIEW
+X96-1010	THE LOCKHEED MARTIN TIPSTER II PROJECT
+X96-1018	Management of Free Text for NDIC: An Overview of the FTM Project
+X96-1025	SRA PROJECT FOR ARPA / USACOM
